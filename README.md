@@ -13,13 +13,9 @@
   </a>
 </p>
 
----
-
 ### About Me
 
 I'm a Computer Science student at UFRN (Federal University of Rio Grande do Norte) while building cool stuff on the side. As a full stack developer, I focus on developing scalable and reliable web applications, with strong expertise in backend development and solid experience in modern frontend technologies. I'm a fast learner, naturally curious, and deeply motivated by the challenge of solving complex problems. I constantly seek to grow, improve, and stay up-to-date in an ever-evolving tech landscape.
-
----
 
 ### Tools I've worked with:
 
